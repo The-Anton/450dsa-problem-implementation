@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SimpleBinaryTree" targetName="SimpleBinaryTree" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b77e58f-531f-4be0-8464-07b67cf4134d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1lkEgL4YYYxEA9HCJiXRmQRIO9M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InsertionInTree" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleBinaryTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SimpleBinaryTree" TARGET_NAME="SimpleBinaryTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SimpleBinaryTree" RUN_TARGET_NAME="SimpleBinaryTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b77e58f-531f-4be0-8464-07b67cf4134d" name="Default Changelist" comment="" />
+      <created>1608132799002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608132799002</updated>
+      <workItem from="1608132802625" duration="1826000" />
+      <workItem from="1608974223099" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="191" key="FileChooserDialogImpl" timestamp="1608974524985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="191" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608974524985" />
+    <state width="723" height="223" key="GridCell.Tab.0.bottom" timestamp="1608134642398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608134642398" />
+    <state width="723" height="223" key="GridCell.Tab.0.center" timestamp="1608134642397">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608134642397" />
+    <state width="723" height="223" key="GridCell.Tab.0.left" timestamp="1608134642397">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608134642397" />
+    <state width="723" height="223" key="GridCell.Tab.0.right" timestamp="1608134642398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608134642398" />
+  </component>
+</project>
